@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as o}from"./app.bcab10da.js";const u='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}',s={},r=o("p",null,"'# Hello VitePress'",-1),n=[r];function c(_,i,d,l,p,f){return a(),t("div",null,n)}var h=e(s,[["render",c]]);export{u as __pageData,h as default};
